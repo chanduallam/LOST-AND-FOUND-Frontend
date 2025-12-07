@@ -75,8 +75,4 @@ npm run dev
 
 ---
 
-## 🙋‍♂️ Contact
-
-For queries or feedback, feel free to connect via [LinkedIn](https://www.linkedin.com/in/vivekvodnala/).
-
 # LOST-AND-FOUND
